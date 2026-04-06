@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pemrosesan-data-492213",
+  "private_key_id": "d7e71dae44788859c7dc67109044af629933ad49",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDAkg5F06hrZvrD\nRuG0lNMu8foWtP9WZt9ul7xYZm2oCzbUYbUVhGQzLi9tP6LDH8CAj6y4hUYkqNG6\nIj3t9PLzZSRurqq63z1ktWtCsc3c3xXEiIR1qyHoX8SU1NUFxwk8dc1oRq13urIg\nMQT9G2zt5Ri5/9pa6lEbAY1X5EKgLyrpWUq+GJZPgt3PdQ3rBBtKubJK1rq1EDZE\nHvM6nHVQdrNkki3XyxT3mSWRzJI95/rdx/GYaE6Zpl96ns4P3UpIhhvt5o20qGFW\nATN6UgbVAQQB08IJIYH9qLAojfZUdX436XktVmKNC+0DWmVjkkBEvs4D293J2dii\nbiAPcB1JAgMBAAECgf9NenZDoeUhUU2TQ/GLtlVBjhoRCMGzAbDjzij5aDy2X8yv\npqA1CA9IiEyMqA3Uc/H/x862bujJ1yKKwTwpgWQ+iXMfFSecCDWrT1LYgrFRLHCV\nolepADGkTOPK/da3fF069iquycEBaxw/13kqXN522LYaH9a6vYvkUbuMoUotKBpl\nPKzDKQmb2FZlTQlu1W1xGWNQ/RuNS2okWtbhGc5C+hBGvC3zHYw7EnvUPnZQszZk\np+jqedxdn5Fi0J7kzSwbp+EljQnzYb9Qx7dNRvCN48h7Yc/XjLSeQvuZkABHei0L\nfL/viq4gY8Vcz7MOewPpDn8MsVqy+KgbA9FNbrECgYEA4y6Ja56tv3F/16xNDkR6\nqRXX/y6g+SVC5jG3qaxtzYYdO3McBdPEGvXFXZC8VjjMxyBDaOoLm3l9wQRHYCaL\n55sGE+GCf+ggfh0G5SKXCAQI9bq1e46ugf4V04MLce4Nm2UYopjGaSoa7/glbjBb\nTI0JIeJDZLGJNyNAsqKZoQUCgYEA2P+PE1GJKXXqTZ3XY7q9/LTQuYiiD8CC1TNJ\ngiN1B9JYqQXYcOB/htEQJDXvMyx4Vk4ADXk1fNbgtM7doFgdBvEIwvJ3eelPeRnX\nbnMWWzJTLaogB8kVrY/PgQeSa/BmwTcR+FM3c/9ZobLE94dFr6Olv8AxkPmuMXYN\nTs+iTnUCgYA7/n8l34qswvFq6EKVIPpviqg26H50LSXkmn6RHUsF+oPfvj9JPqpM\nIFlVozJJZsiVUWzb2OrlzQirn1CmEKfjqunI+EW5N3jVNR8sBZ1y7XXcRslEbuKg\ny5PB/ppYJPCM9/6web3z6b2hX5uq5LRHm/ssao83mTbOS837HruJbQKBgEH2nbWP\nqZRS5eCmRJ1qXOp+xJxBrpH/QUYyCvxmbuLrzEvFHSBi/iErWC7Jvmbd8864c0el\nOt8yKqiL4c8mOdysVK9+KVeD1sbHVjebAIbEa4iMGKSFOfPCrZ9Zf+cT8wh1Bx9n\nnInEa6i9wSZFlqdnpbD+aZLac1tRuYXllD8pAoGBAMC/4zPKbmNJir/hLESp7LYv\nMB1QqfqBQ4OqeuTrqf9CtE+o1Pu9TBYa67q1HmiN3KwwTHfOqOKKZnSIC1Wu7u3+\nU/3uqoZhZ1TM370w1nC5ftiNIeagLHkbQ+LshA1nQ4vkTxXWZbULRTxlb2R0gJAs\nlDCMD3bIn/Fn7lWXT0ST\n-----END PRIVATE KEY-----\n",
+  "client_email": "pemda-312@pemrosesan-data-492213.iam.gserviceaccount.com",
+  "client_id": "114277718655221543557",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pemda-312%40pemrosesan-data-492213.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,17 @@
+# Setup virtual environment dan install library
+cd submission-pemda
+py -m venv .env
+.env\Script\Activate.ps1
+pip install -r requirements.txt
+
+# Menjalankan script ETL pipeline
+py main.py
+
+# Menjalankan unit testing pada folder testing
+py -m pytest tests
+
+# Menjalankan test covarage pada folder test
+pytest --cov=utils --cov-report=html tests/
+
+# URL Google Sheets
+https://docs.google.com/spreadsheets/d/1bDdqwI7WK4qunL7yhyzYadDgfkaVn-DfFj2aMrn8m3o/edit?gid=0#gid=0
